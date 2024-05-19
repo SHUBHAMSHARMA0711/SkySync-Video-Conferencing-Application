@@ -55,9 +55,16 @@ Welcome to SkySync, a next-generation video conferencing application designed to
 - **ZegoCloud API**: Seamlessly integrate into the conference UI using ZegoCloud.
 
 ## Screenshots
-(Include screenshots of the app in action here)
+### Home Screen
+<img src="assets/Screenshot_2024-05-13-00-02-19-69_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-00-03-33-75_3284b72beae1a18d544836600d91e8bb.jpg" width = "150">
 
-### Contributing
+### SignIn/SignUp
+<img src="assets/Screenshot_2024-05-13-00-19-58-58_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-00-19-48-81_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-38-86_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10">
+
+### Features and Activities
+<img src="assets/Screenshot_2024-05-13-00-18-35-49_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-17-29-16-93_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-00-80_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-18-22-59-94_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-29-93_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-18-19-19-74_b783bf344239542886fee7b48fa4b892.jpg" width = "150" hspace="2">
+
+## Contributing
 We welcome contributions to enhance SkySync! Please fork the repository and create a pull request with your changes.
 
 ## License
