@@ -3,7 +3,7 @@
 [![Download apk](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/SHUBHAMSHARMA0711/SkySync-Video-Conferencing-Application/releases/download/v1.0.0/SkySync.apk)
 
 ## Overview
-Welcome to SkySync, a next-generation video conferencing application designed to revolutionize the way you connect and collaborate remotely. Powered by the robust ZegoCloud API, SkySync offers a seamless and efficient video communication experience, whether you're catching up with friends or holding business meetings.
+Welcome to SkySync, a next-generation video conferencing application designed to revolutionize the way you connect and collaborate remotely. Powered by the robust **ZegoCloud API**, SkySync offers a seamless and efficient video communication experience, whether you're catching up with friends or holding business meetings.
 
 ## Key Features
 ### Effortless Meeting Management
@@ -40,7 +40,7 @@ Welcome to SkySync, a next-generation video conferencing application designed to
 - **Environment Check**: Monitor and get notified about the lighting conditions in your environment.
 
 ### Profile Screen
-- **User Details**: View and edit your name, email, and profile picture.
+- **User Details**: View and edit your name and profile picture.
 - **Password Change**: Update your account password.
 - **Logout**: Sign out of your account securely.
 
@@ -59,7 +59,7 @@ Welcome to SkySync, a next-generation video conferencing application designed to
 <img src="assets/Screenshot_2024-05-13-00-02-19-69_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-00-03-33-75_3284b72beae1a18d544836600d91e8bb.jpg" width = "150">
 
 ### SignIn/SignUp
-<img src="assets/Screenshot_2024-05-13-00-19-58-58_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-00-19-48-81_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-38-86_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10">
+<img src="assets/Screenshot_2024-05-13-00-19-38-86_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-00-19-48-81_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-58-58_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10">
 
 ### Features and Activities
 <img src="assets/Screenshot_2024-05-13-00-18-35-49_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-17-29-16-93_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-00-80_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-18-22-59-94_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-29-93_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-18-19-19-74_b783bf344239542886fee7b48fa4b892.jpg" width = "150" hspace="2"> <img src="assets/Screenshot_2024-05-13-00-19-18-20_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="10"> <img src="assets/Screenshot_2024-05-13-00-19-21-66_3284b72beae1a18d544836600d91e8bb.jpg" width = "150" hspace="2">
