@@ -1,5 +1,7 @@
 # SkySync: The Ultimate Video Conferencing Solution
 
+[![Download apk](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/SHUBHAMSHARMA0711/SkySync-Video-Conferencing-Application/releases/download/v1.0.0/SkySync.apk)
+
 ## Overview
 Welcome to SkySync, a next-generation video conferencing application designed to revolutionize the way you connect and collaborate remotely. Powered by the robust ZegoCloud API, SkySync offers a seamless and efficient video communication experience, whether you're catching up with friends or holding business meetings.
 
